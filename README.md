@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, im Kapybara17
+A silly guy addicted to patching and fixing!
 
 <!--
 **kapybara17/kapybara17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
